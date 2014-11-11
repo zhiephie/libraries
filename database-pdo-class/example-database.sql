@@ -4,6 +4,6 @@ CREATE TABLE users (
  PRIMARY KEY (id)
 ) ENGINE=InnoDB;
 
-INSERT INTO ts_users VALUES
+INSERT INTO users VALUES
   (1,'Walter'),
   (2,'Sheldon');
